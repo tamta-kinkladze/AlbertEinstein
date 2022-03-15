@@ -1,0 +1,71 @@
+
+#main{
+    width: 90%;
+    height:100%; 
+    background-color: rgba(189, 189, 189, 0.911);
+    margin:auto;
+    border-radius: 10px;
+}
+#title{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#caption{
+    text-align: center;
+    padding-top: px;
+    font-size: 18px;
+}
+#img-wrapper{
+    width: 90%;
+    display: block;
+    padding-left: 120px;;
+    
+}
+#image1{
+    width:90%
+}
+#undertext{
+    width: 90%;
+    max-width: 90%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    border-bottom:1px solid black ;
+}
+#tribute-text{
+    text-align: center;
+    font-size: 50px;
+}
+#biography{
+    background-color: #fff;
+    max-width: 90%;
+    margin: auto;
+    border-radius: 20px;
+    display: block;
+}
+#bio-list{
+    width: 85%;
+}
+#bio-list:first-child{
+    padding-top: 30px;
+}
+#bio-list:last-child{
+    padding-bottom: 30px;
+}
+
+.items{
+    padding-top:20px;
+    padding-bottom:20px;
+}
+#wikipedia{
+    font-size: 25px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+footer{
+    text-align: center;
+    margin: 35px;
+    font-size: 18px;;
+}
